@@ -9,5 +9,7 @@
             "email": "jonathan.daigle@noreply.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php-di/php-di": "^6.3"
+    }
 }
