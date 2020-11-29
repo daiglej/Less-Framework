@@ -2,7 +2,7 @@
     "name": "daiglej/less-framework",
     "description": "Modular Docker Framework",
     "type": "project",
-    "license": "The Unlicense",
+    "license": "Unlicense",
     "authors": [
         {
             "name": "Jonathan Daigle",
